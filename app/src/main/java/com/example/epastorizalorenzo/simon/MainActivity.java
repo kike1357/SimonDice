@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-/*
-        soniVer = MediaPlayer.create(this, R.raw.Crack);
+
+       /* soniVer = MediaPlayer.create(this, R.raw.Crack);
         soniAmar = MediaPlayer.create(this, R.raw.NiñosCelebrando);
         soniRoj = MediaPlayer.create(this, R.raw.EestoQueEs);
         soniAzl = MediaPlayer.create(this, R.raw.sonidoSacudido);*/
@@ -183,7 +183,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
 
-
+//comentario
     }
 
 
